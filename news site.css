@@ -1,0 +1,85 @@
+html,
+body {
+    font-size: 16.6px;
+    color: #ffe1fb;
+    background-color: #2a2b33;
+
+
+}
+
+.nav-link a {
+
+    color: #ff7bdc;
+    background-color: #464755;
+    padding: 0.2%;
+
+
+}
+
+div.nav-link {
+    text-align: right;
+    margin-right: 1.4%;
+    margin-top: 0%;
+    font-size: 1.02rem;
+}
+
+/* .content-wrapper .you-tube {
+    color: #47ff91;
+    display: inline;
+    background-color: #d7ff10;
+
+} */
+
+.content-v1 {
+    overflow: hidden;
+}
+
+.content-wrapper table {
+    display: block;
+    margin-left: 7%;
+}
+
+h2 {
+    color: #47ff91;
+    font-size: 1.74rem;
+    text-align: center;
+    margin-top: 1vh;
+}
+
+.content-wrapper {
+    margin-left: 0%;
+}
+
+
+.social-links a {
+    color: #ff6868;
+}
+
+.content-wrapper img {
+    height: 100px;
+    margin: 2px 22px;
+    border-radius: 70px;
+    float: left;
+}
+
+.content-wrapper h3 {
+    margin-left: 3%;
+}
+
+.content-wrapper .space-list-1 {
+    margin-left: 3.5%;
+    font-style: oblique;
+}
+
+.content-wrapper .space-list-2 {
+    margin-left: 4%;
+    font-style: oblique;
+}
+
+table a {
+    color: #9aa280;
+}
+
+.highlight-link a {
+    color: #d7ff10;
+}
